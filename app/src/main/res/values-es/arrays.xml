@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="report_crime_items">
+        <item name="Call">Call</item>
+        <item name="Phone">Phone</item>
+    </string-array>
+</resources>
